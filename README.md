@@ -1,7 +1,7 @@
 # ART302
 Contents of my Python scripting work in Autodesk Maya for automating rigging for the ART302 module.
 
-These files contain code that I created while following Gnomon Workshop's 'Master Rigging and Python Scripting.' 
+These files contain code that I created while following Gnomon Workshop's 'Master Rigging and Python Scripting in MAya.' 
 
 None of this code is useable and it does not work in engine as the course that I got from Gnomon Workshop was missing some core material needed for the code they directed the viewer to use.
 My plan for this code was to write it while following the tutorials and then once I saw how it worked I would change and adapt it to work for my full quadraped rig. 
